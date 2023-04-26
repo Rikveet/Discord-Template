@@ -1,2 +1,3 @@
-# Discord-Template
-This is a basic discord template.
+# Discord Bot Template
+
+Discord V14+ bot
